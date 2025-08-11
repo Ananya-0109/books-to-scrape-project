@@ -32,8 +32,8 @@ bookstoscrape/
 
 ## 📊 Streamlit Dashboard
 
-Total books scraped
-Price distribution chart
+Total books scraped,
+Price distribution chart,
 Availability summary
 
 ## Data Source
